@@ -107,6 +107,8 @@ var index_config_default = {
       address: "http://zhangqun1818.serv00.net:6628/?spider=凤凰fm"},
     {name: "🐰兔贝少儿",
       address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"}
+    {name: "🐰兔贝少儿",
+      address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"}
 ]},
   cms: {list: [
 {name: "🌪️暴风采集",
