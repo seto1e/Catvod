@@ -99,7 +99,7 @@ var index_config_default = {
       address: "http://zhangqun1818.serv00.net/klhj.php"},
       {name: "🐣電影天堂",
       address: "https://php.doube.eu.org/spider/php/电影天堂.php"},
-      {name: "🍁非凡資源，",
+      {name: "🍁非凡資源",
       address: "https://php.doube.eu.org/spider/php/非凡资源.php"},
       {name: "🧘🏻專享影視",
       address: "http://sspa8.top:99/php/专享.php"},
